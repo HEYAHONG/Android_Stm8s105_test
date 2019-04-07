@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".menu">
+
+
+    <TextView
+        android:id="@+id/textView_mingcheng"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="@string/lanyamincheng"
+        android:textSize="30sp"
+        />
+
+    <EditText
+        android:id="@+id/editText_mingcheng"
+        android:layout_marginTop="50dp"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:ems="10"
+        android:gravity="start|top"
+        android:inputType="text"
+        android:textSize="30sp"/>
+    <TextView
+        android:id="@+id/textView_addr"
+        android:layout_width="match_parent"
+        android:layout_marginTop="100dp"
+        android:layout_height="50dp"
+        android:text="从机地址："
+        android:textSize="30sp"
+        />
+
+    <EditText
+        android:id="@+id/editText_addr"
+        android:layout_marginTop="150dp"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:ems="10"
+        android:text="1"
+        android:gravity="start|top"
+        android:inputType="text"
+        android:textSize="30sp"
+        tools:ignore="DuplicateIds" />
+      <Button
+        android:id="@+id/button_save"
+        android:layout_marginTop="200dp"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:onClick="save_button"
+        android:textSize="30sp"
+        android:text="保存" />
+    <Button
+        android:id="@+id/button_test"
+        android:layout_marginTop="250dp"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:onClick="test_button"
+        android:textSize="30sp"
+        android:text="测试" />
+
+</android.support.design.widget.CoordinatorLayout>
+
+

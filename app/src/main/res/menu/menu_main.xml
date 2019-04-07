@@ -1,0 +1,39 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.test.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@id/action_rw"
+        android:orderInCategory="101"
+        android:title="手动读写" />
+    <item
+        android:id="@+id/rule_on"
+        android:orderInCategory="102"
+        android:title="启动规则" />
+    <item
+        android:id="@+id/rule_off"
+        android:orderInCategory="103"
+        android:title="关闭规则" />
+    <item
+        android:id="@+id/beep_on"
+        android:orderInCategory="104"
+        android:title="启动报警" />
+    <item
+        android:id="@+id/beep_off"
+        android:orderInCategory="105"
+        android:title="关闭报警" />
+    <item
+        android:id="@+id/relay_on"
+        android:orderInCategory="106"
+        android:title="启动继电器" />
+    <item
+        android:id="@+id/relay_off"
+        android:orderInCategory="107"
+        android:title="关闭继电器" />
+
+</menu>
