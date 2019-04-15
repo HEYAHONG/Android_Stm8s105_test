@@ -1,0 +1,198 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/lubuntu/AndroidStudioProjects/test/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /home/lubuntu/AndroidStudioProjects/test/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /home/lubuntu/AndroidStudioProjects/test/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /home/lubuntu/AndroidStudioProjects/test/app/src/main/AndroidManifest.xml:2:1-35:12
+MERGED from [com.android.support:design:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/9b3e3e2d7103c21295e74701c45cfdb9/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/79a69e8021aa00f95dc45e0d0c1847ca/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/1f895e375d7b0185869c24634d45783f/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/933f79c401107684627c3d1e53f99a76/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/f75ea7c37cb9568e9fe600b3c822da12/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/29bf4c013deda1b55f9b1b1b68979c58/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/dac567a10b15f9e7cdad5191f9e8ddcb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/6c1694374bc29959b023fd18a234e195/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/0b139fa73b9bc38a07587a1bb7225918/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/c9a2a6f38a4095cf76a145838ee95da4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/8a89f6290fece68e7357b43d5aab30a3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/7c673e9bb5f57ac6f2d5967f122f849e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/9a072963b2bc6411d9f83af14dc33888/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/94d673816db2ab7bf4790372add0f85d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/0265786fae8f66ba147e75c9d49d44a3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/da59f6893a4c1a104d98b7cc910b1290/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/15de29d4ef2edc1f88f6883abe76f715/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/b9c2c2e04199be814ff5a3e168cba07d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/4141655ebc7005c16b67fec7b895e8a4/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/e7c770f0d7bfbd23384fa8ab564cb62e/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/bdf06d4cfac3010d4e499e3d0ace6a44/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/84ba3203ef53faf8c64b9c7e7937b5cf/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/80ca22453c3fbd8fb36ad2c48d925d4f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/b30cef147525b608dbddfb2d0ce6cca6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/772d57ea169b40c4cf0641d94b4f31a9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/706473ef9a7f145bb43f9e76af62303e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/1a1f5514c4c117a7139934740f87fe43/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/156ceb8910da5e81218986058d3394e6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/feac1169e772aebdd987becfdc67139a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/4e0bd62f324565adf964f6ec808ac5ca/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/517f08f7605f7630edc510ebb139bf75/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/lubuntu/AndroidStudioProjects/test/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /home/lubuntu/AndroidStudioProjects/test/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /home/lubuntu/AndroidStudioProjects/test/app/src/main/AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from /home/lubuntu/AndroidStudioProjects/test/app/src/main/AndroidManifest.xml:3:5-23
+		INJECTED from /home/lubuntu/AndroidStudioProjects/test/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lubuntu/AndroidStudioProjects/test/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/lubuntu/AndroidStudioProjects/test/app/src/main/AndroidManifest.xml
+		ADDED from /home/lubuntu/AndroidStudioProjects/test/app/src/main/AndroidManifest.xml:2:1-35:12
+		INJECTED from /home/lubuntu/AndroidStudioProjects/test/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/lubuntu/AndroidStudioProjects/test/app/src/main/AndroidManifest.xml
+		ADDED from /home/lubuntu/AndroidStudioProjects/test/app/src/main/AndroidManifest.xml:2:1-35:12
+		INJECTED from /home/lubuntu/AndroidStudioProjects/test/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/lubuntu/AndroidStudioProjects/test/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/lubuntu/AndroidStudioProjects/test/app/src/main/AndroidManifest.xml:5:5-29:19
+MERGED from [com.android.support:design:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/9b3e3e2d7103c21295e74701c45cfdb9/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/9b3e3e2d7103c21295e74701c45cfdb9/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/1f895e375d7b0185869c24634d45783f/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/1f895e375d7b0185869c24634d45783f/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/4141655ebc7005c16b67fec7b895e8a4/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/4141655ebc7005c16b67fec7b895e8a4/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/e7c770f0d7bfbd23384fa8ab564cb62e/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/e7c770f0d7bfbd23384fa8ab564cb62e/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/4141655ebc7005c16b67fec7b895e8a4/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/lubuntu/AndroidStudioProjects/test/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/lubuntu/AndroidStudioProjects/test/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/lubuntu/AndroidStudioProjects/test/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/lubuntu/AndroidStudioProjects/test/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/lubuntu/AndroidStudioProjects/test/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/lubuntu/AndroidStudioProjects/test/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.test.MainActivity
+ADDED from /home/lubuntu/AndroidStudioProjects/test/app/src/main/AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from /home/lubuntu/AndroidStudioProjects/test/app/src/main/AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from /home/lubuntu/AndroidStudioProjects/test/app/src/main/AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from /home/lubuntu/AndroidStudioProjects/test/app/src/main/AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/lubuntu/AndroidStudioProjects/test/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/lubuntu/AndroidStudioProjects/test/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /home/lubuntu/AndroidStudioProjects/test/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/lubuntu/AndroidStudioProjects/test/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/lubuntu/AndroidStudioProjects/test/app/src/main/AndroidManifest.xml:19:27-74
+activity#com.test.menu
+ADDED from /home/lubuntu/AndroidStudioProjects/test/app/src/main/AndroidManifest.xml:22:9-24:46
+	android:theme
+		ADDED from /home/lubuntu/AndroidStudioProjects/test/app/src/main/AndroidManifest.xml:24:13-44
+	android:name
+		ADDED from /home/lubuntu/AndroidStudioProjects/test/app/src/main/AndroidManifest.xml:23:13-33
+activity#com.test.manual_rw
+ADDED from /home/lubuntu/AndroidStudioProjects/test/app/src/main/AndroidManifest.xml:25:9-26:40
+	android:name
+		ADDED from /home/lubuntu/AndroidStudioProjects/test/app/src/main/AndroidManifest.xml:26:13-38
+uses-permission#android.permission.BLUETOOTH
+ADDED from /home/lubuntu/AndroidStudioProjects/test/app/src/main/AndroidManifest.xml:30:5-67
+	android:name
+		ADDED from /home/lubuntu/AndroidStudioProjects/test/app/src/main/AndroidManifest.xml:30:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /home/lubuntu/AndroidStudioProjects/test/app/src/main/AndroidManifest.xml:31:5-73
+	android:name
+		ADDED from /home/lubuntu/AndroidStudioProjects/test/app/src/main/AndroidManifest.xml:31:22-71
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/lubuntu/AndroidStudioProjects/test/app/src/main/AndroidManifest.xml:32:5-78
+	android:name
+		ADDED from /home/lubuntu/AndroidStudioProjects/test/app/src/main/AndroidManifest.xml:32:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/lubuntu/AndroidStudioProjects/test/app/src/main/AndroidManifest.xml:33:5-80
+	android:name
+		ADDED from /home/lubuntu/AndroidStudioProjects/test/app/src/main/AndroidManifest.xml:33:22-78
+uses-sdk
+INJECTED from /home/lubuntu/AndroidStudioProjects/test/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/lubuntu/AndroidStudioProjects/test/app/src/main/AndroidManifest.xml
+INJECTED from /home/lubuntu/AndroidStudioProjects/test/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/9b3e3e2d7103c21295e74701c45cfdb9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/9b3e3e2d7103c21295e74701c45cfdb9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/79a69e8021aa00f95dc45e0d0c1847ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/79a69e8021aa00f95dc45e0d0c1847ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/1f895e375d7b0185869c24634d45783f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/1f895e375d7b0185869c24634d45783f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/933f79c401107684627c3d1e53f99a76/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/933f79c401107684627c3d1e53f99a76/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/f75ea7c37cb9568e9fe600b3c822da12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/f75ea7c37cb9568e9fe600b3c822da12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/29bf4c013deda1b55f9b1b1b68979c58/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/29bf4c013deda1b55f9b1b1b68979c58/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/dac567a10b15f9e7cdad5191f9e8ddcb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/dac567a10b15f9e7cdad5191f9e8ddcb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/6c1694374bc29959b023fd18a234e195/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/6c1694374bc29959b023fd18a234e195/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/0b139fa73b9bc38a07587a1bb7225918/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/0b139fa73b9bc38a07587a1bb7225918/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/c9a2a6f38a4095cf76a145838ee95da4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/c9a2a6f38a4095cf76a145838ee95da4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/8a89f6290fece68e7357b43d5aab30a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/8a89f6290fece68e7357b43d5aab30a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/7c673e9bb5f57ac6f2d5967f122f849e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/7c673e9bb5f57ac6f2d5967f122f849e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/9a072963b2bc6411d9f83af14dc33888/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/9a072963b2bc6411d9f83af14dc33888/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/94d673816db2ab7bf4790372add0f85d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/94d673816db2ab7bf4790372add0f85d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/0265786fae8f66ba147e75c9d49d44a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/0265786fae8f66ba147e75c9d49d44a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/da59f6893a4c1a104d98b7cc910b1290/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/da59f6893a4c1a104d98b7cc910b1290/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/15de29d4ef2edc1f88f6883abe76f715/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/15de29d4ef2edc1f88f6883abe76f715/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/b9c2c2e04199be814ff5a3e168cba07d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/b9c2c2e04199be814ff5a3e168cba07d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/4141655ebc7005c16b67fec7b895e8a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/4141655ebc7005c16b67fec7b895e8a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/e7c770f0d7bfbd23384fa8ab564cb62e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/e7c770f0d7bfbd23384fa8ab564cb62e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/bdf06d4cfac3010d4e499e3d0ace6a44/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/bdf06d4cfac3010d4e499e3d0ace6a44/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/84ba3203ef53faf8c64b9c7e7937b5cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/84ba3203ef53faf8c64b9c7e7937b5cf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/80ca22453c3fbd8fb36ad2c48d925d4f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/80ca22453c3fbd8fb36ad2c48d925d4f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/b30cef147525b608dbddfb2d0ce6cca6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/b30cef147525b608dbddfb2d0ce6cca6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/772d57ea169b40c4cf0641d94b4f31a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/772d57ea169b40c4cf0641d94b4f31a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/706473ef9a7f145bb43f9e76af62303e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/706473ef9a7f145bb43f9e76af62303e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/1a1f5514c4c117a7139934740f87fe43/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/1a1f5514c4c117a7139934740f87fe43/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/156ceb8910da5e81218986058d3394e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/156ceb8910da5e81218986058d3394e6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/feac1169e772aebdd987becfdc67139a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/feac1169e772aebdd987becfdc67139a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/4e0bd62f324565adf964f6ec808ac5ca/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/4e0bd62f324565adf964f6ec808ac5ca/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/517f08f7605f7630edc510ebb139bf75/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/lubuntu/.gradle/caches/transforms-2/files-2.1/517f08f7605f7630edc510ebb139bf75/AndroidManifest.xml:20:5-44
+INJECTED from /home/lubuntu/AndroidStudioProjects/test/app/src/main/AndroidManifest.xml
+INJECTED from /home/lubuntu/AndroidStudioProjects/test/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/lubuntu/AndroidStudioProjects/test/app/src/main/AndroidManifest.xml
+		ADDED from /home/lubuntu/AndroidStudioProjects/test/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lubuntu/AndroidStudioProjects/test/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/lubuntu/AndroidStudioProjects/test/app/src/main/AndroidManifest.xml
+		ADDED from /home/lubuntu/AndroidStudioProjects/test/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lubuntu/AndroidStudioProjects/test/app/src/main/AndroidManifest.xml
